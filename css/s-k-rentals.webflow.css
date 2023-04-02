@@ -2628,8 +2628,10 @@ figcaption {
   }
 
   .button-4 {
-    width: 100px;
+    width: 150px;
     margin-top: 390px;
+    padding-right: 0px;
+    padding-left: 0px;
     font-size: 15px;
   }
 
@@ -2643,6 +2645,7 @@ figcaption {
   }
 
   .footer-dark {
+    width: auto;
     height: 300px;
     margin-top: 21px;
   }
