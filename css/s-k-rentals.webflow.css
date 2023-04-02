@@ -2648,6 +2648,8 @@ figcaption {
     width: auto;
     height: 300px;
     margin-top: 21px;
+    margin-right: -33px;
+    margin-left: -22px;
   }
 
   .container-3 {
@@ -2657,13 +2659,15 @@ figcaption {
   .footer-wrapper {
     margin-top: 17px;
     padding-top: 64px;
+    padding-left: 19px;
   }
 
   .footer-content {
     position: relative;
     left: 248px;
     top: -102px;
-    margin-left: -104px;
+    margin-top: -129px;
+    margin-left: -133px;
   }
 
   .title-small {
@@ -2693,23 +2697,26 @@ figcaption {
 
   .link {
     margin-top: -162px;
+    margin-left: 20px;
     font-size: 10px;
   }
 
   .link-2 {
     margin-top: -4px;
+    margin-left: 18px;
     font-size: 10px;
   }
 
   .paragraph-5 {
     margin-top: -5px;
+    margin-left: 16px;
     font-size: 10px;
   }
 
   .image-4 {
     display: inline-block;
     width: 50px;
-    margin-left: auto;
+    margin-left: 21px;
   }
 
   .columns {
