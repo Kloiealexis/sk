@@ -1514,7 +1514,7 @@ figcaption {
   background-color: #f5f7fa;
   background-image: url('../images/Untitled-design-12_1.png');
   background-position: -13px -13px;
-  background-size: auto;
+  background-size: fill;
 }
 
 .container-3 {
