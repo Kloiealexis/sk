@@ -2653,12 +2653,14 @@ figcaption {
   .footer-dark {
     width: auto;
     height: 300px;
-    max-width: 479px;
+    max-width: none;
     margin-top: 21px;
-    margin-right: 0px;
-    margin-left: 0px;
+    margin-right: -14px;
+    margin-left: -14px;
     padding-right: 0px;
-    padding-left: 0px;
+    padding-left: 13px;
+    -o-object-fit: fill;
+    object-fit: fill;
   }
 
   .container-3 {
