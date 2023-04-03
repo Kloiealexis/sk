@@ -1514,7 +1514,7 @@ figcaption {
   background-color: #f5f7fa;
   background-image: url('../images/Untitled-design-12_1.png');
   background-position: -13px -13px;
-  background-size: fill;
+  background-size: auto;
 }
 
 .container-3 {
@@ -2651,7 +2651,7 @@ figcaption {
   }
 
   .footer-dark {
-    width: fill;
+    width: 479px;
     height: 300px;
     max-width: 479px;
     margin-top: 21px;
