@@ -2650,18 +2650,18 @@ figcaption {
     font-size: 15px;
   }
 
-  .footer-dark {
-    width: 479px;
-    height: 300px;
-    max-width: 479px;
-    margin-top: 21px;
-    margin-right: -14px;
-    margin-left: -14px;
-    padding-right: 0px;
-    padding-left: 13px;
-    -o-object-fit: fill;
-    object-fit: fill;
-  }
+ .footer-dark {
+  position: relative;
+  height: 300px;
+  margin-top: 6px;
+  margin-bottom: 0px;
+  padding: 0px 30px;
+  border-bottom: 1px solid #e4ebf3;
+  background-color: #f5f7fa;
+  background-image: url('../images/Untitled-design-12_1.png');
+  background-position: -13px -13px;
+  background-size: auto;
+	}
 
   .container-3 {
     max-width: none;
