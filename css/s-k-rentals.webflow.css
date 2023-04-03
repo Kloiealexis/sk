@@ -2665,6 +2665,8 @@ figcaption {
 
   .footer-wrapper {
     margin-top: 17px;
+    margin-right: 0px;
+    margin-left: 0px;
     padding-top: 64px;
     padding-left: 0px;
   }
