@@ -2198,7 +2198,7 @@ figcaption {
 
   .image-2 {
     height: auto;
-    max-height: 200px;
+    max-height: 400px;
     margin-top: -5px;
     -o-object-fit: cover;
     object-fit: cover;
@@ -2601,7 +2601,7 @@ figcaption {
 
   .image-2 {
     width: 1000px;
-    height: 400px;
+    height: 300px;
     max-height: none;
   }
 
@@ -2655,8 +2655,10 @@ figcaption {
     height: 300px;
     max-width: 479px;
     margin-top: 21px;
-    margin-right: -33px;
-    margin-left: -22px;
+    margin-right: 0px;
+    margin-left: 0px;
+    padding-right: 0px;
+    padding-left: 0px;
   }
 
   .container-3 {
