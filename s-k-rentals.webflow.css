@@ -1513,7 +1513,7 @@ figcaption {
   border-bottom: 1px solid #e4ebf3;
   background-color: #f5f7fa;
   background-image: url('../images/Untitled-design-12_1.png');
-  background-position: 0px 0px;
+  background-position: -13px -13px;
   background-size: auto;
 }
 
@@ -2198,7 +2198,7 @@ figcaption {
 
   .image-2 {
     height: auto;
-    max-height: 200px;
+    max-height: 400px;
     margin-top: -5px;
     -o-object-fit: cover;
     object-fit: cover;
@@ -2599,6 +2599,12 @@ figcaption {
     font-size: 13px;
   }
 
+  .image-2 {
+    width: 1000px;
+    height: 300px;
+    max-height: none;
+  }
+
   .video {
     width: 150px;
     height: 280px;
@@ -2615,7 +2621,7 @@ figcaption {
   }
 
   .bold-text-11 {
-    font-size: 30px;
+    font-size: 40px;
   }
 
   .paragraph-4 {
@@ -2645,11 +2651,16 @@ figcaption {
   }
 
   .footer-dark {
-    width: auto;
+    width: fill;
     height: 300px;
+    max-width: 479px;
     margin-top: 21px;
-    margin-right: -33px;
-    margin-left: -22px;
+    margin-right: -14px;
+    margin-left: -14px;
+    padding-right: 0px;
+    padding-left: 13px;
+    -o-object-fit: fill;
+    object-fit: fill;
   }
 
   .container-3 {
@@ -2658,8 +2669,10 @@ figcaption {
 
   .footer-wrapper {
     margin-top: 17px;
+    margin-right: 0px;
+    margin-left: 0px;
     padding-top: 64px;
-    padding-left: 19px;
+    padding-left: 0px;
   }
 
   .footer-content {
@@ -2668,6 +2681,10 @@ figcaption {
     top: -102px;
     margin-top: -129px;
     margin-left: -133px;
+  }
+
+  .footer-block {
+    margin-left: -275px;
   }
 
   .title-small {
